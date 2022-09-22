@@ -50,6 +50,9 @@
 					<installDirectory>${project.build.directory}</installDirectory>
 					<nodeVersion>v16.13.0</nodeVersion>
 					<yarnVersion>v1.13.0</yarnVersion>
+					<environmentVariables>
+						<NODE_ENV>development</NODE_ENV>
+					</environmentVariables>
 				</configuration>
 				<executions>
 					<execution>
