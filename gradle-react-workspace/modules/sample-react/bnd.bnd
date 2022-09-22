@@ -1,0 +1,5 @@
+Bundle-Name: sample-react
+Bundle-SymbolicName: sample.react
+Bundle-Version: 1.0.0
+Export-Package: sample.react.constants
+Web-ContextPath: /sample-react
